@@ -1,0 +1,6 @@
+{
+  "name": "EventOps ERP/CRM - Template de Portfólio",
+  "description": "Sistema híbrido de gestão operacional e financeira para fornecimento de mão de obra temporária e eventos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
